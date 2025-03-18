@@ -1,2 +1,2 @@
 # car-park
-An ongoing part of a project for a smart campus. This implementation of the car parking system can give the live feedback of empty parking slots. 
+A part of a project for a smart campus, Bachelor's thesis. This implementation of the car parking system can give the live feedback of empty parking slots. 
